@@ -1,0 +1,15 @@
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.exe
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.deps.json
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.runtimeconfig.json
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.dll
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.pdb
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.dll
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\refint\ByteBank.dll
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.pdb
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll

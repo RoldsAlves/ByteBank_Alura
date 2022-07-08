@@ -1,0 +1,15 @@
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\bin\Debug\net6.0\ByteBankAdm.exe
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\bin\Debug\net6.0\ByteBankAdm.deps.json
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\bin\Debug\net6.0\ByteBankAdm.runtimeconfig.json
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\bin\Debug\net6.0\ByteBankAdm.dll
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\bin\Debug\net6.0\ByteBankAdm.pdb
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\obj\Debug\net6.0\ByteBankAdm.csproj.AssemblyReference.cache
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\obj\Debug\net6.0\ByteBankAdm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\obj\Debug\net6.0\ByteBankAdm.AssemblyInfoInputs.cache
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\obj\Debug\net6.0\ByteBankAdm.AssemblyInfo.cs
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\obj\Debug\net6.0\ByteBankAdm.csproj.CoreCompileInputs.cache
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\obj\Debug\net6.0\ByteBankAdm.dll
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\obj\Debug\net6.0\refint\ByteBankAdm.dll
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\obj\Debug\net6.0\ByteBankAdm.pdb
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\obj\Debug\net6.0\ByteBankAdm.genruntimeconfig.cache
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBankAdm\obj\Debug\net6.0\ref\ByteBankAdm.dll
