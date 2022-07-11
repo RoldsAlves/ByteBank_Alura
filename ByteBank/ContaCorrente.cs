@@ -10,6 +10,7 @@ namespace ByteBank
             NomeAgencia = nomeAgencia;
             NumeroAgencia = numeroAgencia;
             NumeroConta = numeroConta;
+            Saldo = 0;
             //try
             //{
             //    TaxaOperacao = 30 / TotalDeContasCriadas;
@@ -34,7 +35,7 @@ namespace ByteBank
         public int NumeroAgencia { get; }
         public int NumeroConta { get; }
 
-        private double _saldo = 100;
+        private double _saldo;
         public double Saldo
         {
             get { return _saldo; }
