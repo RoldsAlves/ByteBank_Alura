@@ -13,3 +13,9 @@ D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBan
 D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.pdb
 D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
 D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\bin\Debug\net6.0\ByteBankAdm.deps.json
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\bin\Debug\net6.0\ByteBankAdm.runtimeconfig.json
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\bin\Debug\net6.0\ByteBankAdm.exe
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\bin\Debug\net6.0\ByteBankAdm.dll
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\bin\Debug\net6.0\ByteBankAdm.pdb
+D:\Cursos Alura\Formação C# e Orientação a Objetos\OrientacaoObjetos_ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CopyComplete

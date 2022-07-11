@@ -4,6 +4,60 @@
     "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\OrientacaoObjetos_ByteBank\\ByteBank\\ByteBank.csproj": {}
   },
   "projects": {
+    "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\ByteBankAdm\\ByteBankAdm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\ByteBankAdm\\ByteBankAdm.csproj",
+        "projectName": "ByteBankAdm",
+        "projectPath": "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\ByteBankAdm\\ByteBankAdm.csproj",
+        "packagesPath": "C:\\Users\\Rodolfo Alves\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\ByteBankAdm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rodolfo Alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\OrientacaoObjetos_ByteBank\\ByteBank\\ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +81,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\ByteBankAdm\\ByteBankAdm.csproj": {
+                "projectPath": "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\ByteBankAdm\\ByteBankAdm.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

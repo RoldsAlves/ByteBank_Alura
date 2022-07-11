@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ByteBank/1.0.0": {
-        "dependencies": {
-          "ByteBankAdm": "1.0.0"
-        },
-        "runtime": {
-          "ByteBank.dll": {}
-        }
-      },
       "ByteBankAdm/1.0.0": {
         "runtime": {
           "ByteBankAdm.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "ByteBank/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "ByteBankAdm/1.0.0": {
       "type": "project",
       "serviceable": false,

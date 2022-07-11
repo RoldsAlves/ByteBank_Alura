@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ByteBankAdm.Utilitarios;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,22 @@ namespace ByteBank.Titular
 {
     public class Cliente
     {
-        public string CPF { get; set; }
+        private string _cpf;
+        public string CPF 
+        {
+            get { return _cpf; } 
+            set 
+            {
+                ValidarCpf validar = new ValidarCpf();
+                bool valido = validar.ValidaCPF(value);
+                if (valido) _cpf = value;
+                else
+                {
+                    Console.WriteLine("CPF Inválido!");
+                    return;
+                } 
+            } 
+        }
         public string Nome { get; set; }
         public string Profissao { get; set; }
         public static int TotalClientes { get; set; }
