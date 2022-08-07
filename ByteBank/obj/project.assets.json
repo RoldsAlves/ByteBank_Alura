@@ -17,8 +17,8 @@
   "libraries": {
     "ByteBankAdm/1.0.0": {
       "type": "project",
-      "path": "../../ByteBankAdm/ByteBankAdm.csproj",
-      "msbuildProject": "../../ByteBankAdm/ByteBankAdm.csproj"
+      "path": "../ByteBankAdm/ByteBankAdm.csproj",
+      "msbuildProject": "../ByteBankAdm/ByteBankAdm.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\ByteBankAdm\\ByteBankAdm.csproj": {
-              "projectPath": "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\ByteBankAdm\\ByteBankAdm.csproj"
+            "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\OrientacaoObjetos_ByteBank\\ByteBankAdm\\ByteBankAdm.csproj": {
+              "projectPath": "D:\\Cursos Alura\\Formação C# e Orientação a Objetos\\OrientacaoObjetos_ByteBank\\ByteBankAdm\\ByteBankAdm.csproj"
             }
           }
         }

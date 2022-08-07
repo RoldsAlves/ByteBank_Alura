@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ByteBankAdm.SistemaInterno;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,15 +7,26 @@ using System.Threading.Tasks;
 
 namespace ByteBankAdm.Funcionarios
 {
-    public class Diretor
+    public class Diretor : FuncionarioAutenticavel
     {
-        public string Nome { get; set; }
-        public string Cpf { get; set; }
-        public double Salario { get; set; }
-
-        public double getBonificacao()
+        public Diretor(string cpf):base(cpf, 5000)
         {
-            return Salario;
+            Console.WriteLine("Criando um Diretor.");
+        }
+
+        public override double GetBonificacao()
+        {
+            return Salario * 0.5;
+        }
+
+        public override double PremioSemestral()
+        {
+            return Salario *= 1.2;
+        }
+
+        public override void AumentarSalario()
+        {
+            this.Salario *= 1.15;
         }
     }
 }

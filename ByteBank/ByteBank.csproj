@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ByteBankAdm\ByteBankAdm.csproj" />
+    <ProjectReference Include="..\ByteBankAdm\ByteBankAdm.csproj" />
   </ItemGroup>
 
 </Project>
